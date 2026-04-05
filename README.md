@@ -48,8 +48,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Corner430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corner430&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-beige-five-69.vercel.app/api?username=Corner430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&count_private=true" />
+  <img height="180" src="https://github-readme-stats-beige-five-69.vercel.app/api/top-langs/?username=Corner430&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=8" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Corner430&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy-wheat-eight.vercel.app/?username=Corner430&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
@@ -69,19 +69,19 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Corner430/ai-blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=ai-blog&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
-  <a href="https://github.com/Corner430/hk-stock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=hk-stock&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+  <a href="https://github.com/Corner430/ai-blog"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=ai-blog&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+  <a href="https://github.com/Corner430/hk-stock"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=hk-stock&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Corner430/mysql-crash-course-interactive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=mysql-crash-course-interactive&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
-  <a href="https://github.com/Corner430/FamBank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=FamBank&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+  <a href="https://github.com/Corner430/mysql-crash-course-interactive"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=mysql-crash-course-interactive&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+  <a href="https://github.com/Corner430/FamBank"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=FamBank&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Corner430/lazyvim-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=lazyvim-installer&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
-  <a href="https://github.com/Corner430/sudo-make-me-a-picture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=sudo-make-me-a-picture&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+  <a href="https://github.com/Corner430/lazyvim-installer"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=lazyvim-installer&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+  <a href="https://github.com/Corner430/sudo-make-me-a-picture"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=sudo-make-me-a-picture&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Corner430/wpa-dictionary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=wpa-dictionary&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+  <a href="https://github.com/Corner430/wpa-dictionary"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=wpa-dictionary&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
 </p>
 
 ---
