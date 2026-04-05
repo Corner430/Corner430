@@ -46,27 +46,13 @@ blog: blog.corner430.eu.org
   <img src="https://github-trophies.vercel.app/?username=Corner430&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
-### Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://github.com/Corner430/ai-blog"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=ai-blog&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a></td>
-    <td align="center"><a href="https://github.com/Corner430/hk-stock"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=hk-stock&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Corner430/mysql-crash-course-interactive"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=mysql-crash-course-interactive&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a></td>
-    <td align="center"><a href="https://github.com/Corner430/FamBank"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=FamBank&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Corner430/lazyvim-installer"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=lazyvim-installer&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a></td>
-    <td align="center"><a href="https://github.com/Corner430/sudo-make-me-a-picture"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=sudo-make-me-a-picture&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><a href="https://github.com/Corner430/wpa-dictionary"><img src="https://github-readme-stats-beige-five-69.vercel.app/api/pin/?username=Corner430&repo=wpa-dictionary&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a></td>
-  </tr>
-</table>
-
 ### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Corner430/Corner430/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Corner430/Corner430/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Corner430/Corner430/output/github-snake.svg" width="100%" />
+</picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Corner430&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=c0caf5&line=70a5fd&point=bf91f3" width="100%" alt="Activity Graph" />
 
