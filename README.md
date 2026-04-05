@@ -20,12 +20,25 @@ blog: blog.corner430.eu.org
 
 ### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,typescript,python,javascript,bash&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,linux,docker&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,nginx,pytorch,cmake&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,neovim,github,githubactions,vscode&theme=dark" />
-</p>
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=cpp,typescript,python,javascript,bash&theme=dark)
+
+**Frontend & Web**
+
+![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark)
+
+**Backend & Systems**
+
+![Backend](https://skillicons.dev/icons?i=linux,docker,nginx,mysql,redis,cmake&theme=dark)
+
+**AI / ML**
+
+![AI](https://skillicons.dev/icons?i=pytorch&theme=dark)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,neovim,github,githubactions,vscode&theme=dark)
 
 ### GitHub Stats
 
