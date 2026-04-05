@@ -61,7 +61,7 @@
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-wheat-eight.vercel.app/?username=Corner430&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=Corner430&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
