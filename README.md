@@ -69,16 +69,15 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Corner430/mymuduo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=mymuduo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
   <a href="https://github.com/Corner430/ai-blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=ai-blog&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
-</p>
-<p align="center">
   <a href="https://github.com/Corner430/hk-stock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=hk-stock&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
-  <a href="https://github.com/Corner430/mprpc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=mprpc&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Corner430/chatserver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=chatserver&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
   <a href="https://github.com/Corner430/mysql-crash-course-interactive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=mysql-crash-course-interactive&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+  <a href="https://github.com/Corner430/FamBank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=FamBank&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Corner430/lazyvim-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Corner430&repo=lazyvim-installer&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" /></a>
 </p>
 
 ---
