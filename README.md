@@ -9,15 +9,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=550&lines=C%2B%2B+Network+Programming+%26+Systems;Next.js+Full-Stack+Web+Development;Deep+Learning+%26+AI+Research;Quantitative+Trading+Systems" alt="Typing SVG" /></a>
 </p>
 
-### About Me
-
-```yaml
-name: Corner430
-education: Harbin Engineering University
-interests: [High-Performance C++, AI/ML, Full-Stack Web, Quantitative Trading]
-blog: blog.corner430.eu.org
-```
-
 ### Tech Stack
 
 **Languages**
